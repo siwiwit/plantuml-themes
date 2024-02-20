@@ -1,0 +1,46 @@
+@startmindmap
+
+!include /home/widi/themes/puml-theme-materia-outline-widi.puml
+
++ Network Security in Information Systems
+++ Definition
++++ Protection of information systems from unauthorized access, use, disclosure, disruption, modification, or destruction
++++ Ensures confidentiality, integrity, and availability (CIA triad) of data
++++ Safeguards against cyberattacks, threats, and vulnerabilities
+
+++ Importance
+
++++ Protects sensitive information (e.g., personal data, financial records, intellectual property)
++++ Prevents system disruptions and downtime
++++ Maintains business continuity and productivity
++++ Minimizes compliance risks and legal penalties
++++ Builds trust with stakeholders and customers
+
+++ Key Components
+
++++ Access control (who can access what)
++++ Authentication (verifying user identities)
++++ Authorization (granting specific permissions)
++++ Encryption (scrambling data for confidentiality)
++++ Firewalls (blocking unauthorized traffic)
++++ Intrusion detection/prevention systems (monitoring for suspicious activity)
++++ Data backup and recovery (mitigating damage from attacks)
++++ Security awareness training (educating users about security practices)
+
+++ Benefits
+
++++ Reduced risk of data breaches and cyberattacks
++++ Improved compliance with regulations
++++ Enhanced system uptime and reliability
++++ Increased data privacy and protection
++++ Boosted customer and stakeholder confidence
+
+++ Challenges
+
++++ Continuous evolution of threats and vulnerabilities
++++ Balancing security with usability and convenience
++++ Integrating security into diverse IT environments
++++ Managing cost-effectiveness of security solutions
++++ Maintaining user compliance with security policies
+
+@endmindmap
